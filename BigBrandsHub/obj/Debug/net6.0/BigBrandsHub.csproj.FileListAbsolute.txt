@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\bin\Debug\net6.0\BigBrandsHub.exe
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\bin\Debug\net6.0\BigBrandsHub.deps.json
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\bin\Debug\net6.0\BigBrandsHub.runtimeconfig.json
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\bin\Debug\net6.0\BigBrandsHub.dll
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\bin\Debug\net6.0\BigBrandsHub.pdb
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\obj\Debug\net6.0\BigBrandsHub.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\obj\Debug\net6.0\BigBrandsHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\obj\Debug\net6.0\BigBrandsHub.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\obj\Debug\net6.0\BigBrandsHub.AssemblyInfo.cs
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\obj\Debug\net6.0\BigBrandsHub.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\obj\Debug\net6.0\BigBrandsHub.dll
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\obj\Debug\net6.0\refint\BigBrandsHub.dll
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\obj\Debug\net6.0\BigBrandsHub.pdb
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\obj\Debug\net6.0\BigBrandsHub.genruntimeconfig.cache
+C:\Users\user\source\repos\BigBrandsHub\BigBrandsHub\obj\Debug\net6.0\ref\BigBrandsHub.dll
